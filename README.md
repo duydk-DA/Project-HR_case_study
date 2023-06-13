@@ -1,2 +1,2 @@
-# Project-HR_case_study
+# Project-Predict_Attrition_Employee_MachineLearning
 Machine learning models
